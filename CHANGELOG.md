@@ -1,3 +1,7 @@
+## Release 0.14.1
+### Summary
+Changed SSL enabling parameter to sslMode.
+
 ## Release 0.14.0
 ### Summary
 This breaking release increases the lower bound of the puppetlabs-apt dependency to the 2.x series of apt and puppetlabs-stdlib to >= 4.4.0. The operating system metadata is also updated to reflect modern systems.
